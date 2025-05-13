@@ -1,1 +1,1 @@
-My First Mini Project 1
+My First Mini Project 1 with media queries
